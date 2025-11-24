@@ -641,7 +641,7 @@ main {
 /* seventh part b  */
 .seventhbb {
     display: flex;
-
+padding-left: 45px;
     width: 100%;
 
 }
